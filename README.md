@@ -1,10 +1,8 @@
-# generative-sketches
-
 Random collection of generative art sketches created while learning Open Frameworks and Processing.
 
-## Open Frameworks
+# Open Frameworks
 
-* Particles system over text.
+### Particles system over text.
 
 [Link to project](openFrameworks/particles-from-font-controlled-by-mouse)
 
