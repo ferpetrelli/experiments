@@ -1,5 +1,4 @@
 #include "ofApp.h"
-#include "Particle.hpp"
 
 ofTrueTypeFont font;
 
