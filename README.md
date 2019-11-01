@@ -1,4 +1,13 @@
-Random collection of generative art sketches created while learning Open Frameworks and Processing.
+# p5.js
+
+### Midi, Audio, Chords recognition and particles on the browser
+
+[Link to project](midi-audio-p5js)
+
+Connect to your midi controller and recognize chords showing them in a cool particle system for no reason.
+
+Demo [Here](https://fernandopetrelli.com/experiments/midi-and-audio-in-the-browser)
+
 
 # Open Frameworks
 
@@ -14,3 +23,5 @@ Move the mouse to control the particles spread from their original position. Kee
 [Link to project](openFrameworks/recursive-tree-animated)
 
 You can adjust the amount of trees and the depth. Use the mouse button to rebuild them.
+
+I compiled a web version using Emscripten [Here](https://fernandopetrelli.com/experiments/recursive-trees-and-webassembly)
