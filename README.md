@@ -1,6 +1,4 @@
-# p5.js
-
-### Midi, Audio, Chords recognition and particles on the browser
+# Midi, Audio, Chords recognition and particles on the browser
 
 [Link to project](midi-audio-p5js)
 
