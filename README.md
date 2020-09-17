@@ -4,8 +4,6 @@
 
 Connect to your midi controller and recognize chords showing them in a cool particle system for no reason.
 
-Demo [Here](https://fernandopetrelli.com/experiments/midi-and-audio-in-the-browser)
-
 
 # Open Frameworks
 
